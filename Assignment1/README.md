@@ -1,3 +1,5 @@
+# Directives for this assignment
+
 The assignment consists of the "default payments" prediction using a neural network.
 
 The provided dataset contains information on default payments (y_train), demographic factors, credit data, history of payment, and bill statements of credit card clients (X_train, X_test) in Taiwan from April 2005 to September 2005.
